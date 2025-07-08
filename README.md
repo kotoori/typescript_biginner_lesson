@@ -1,0 +1,2 @@
+# typescript_biginner_lesson
+全2回で学ぶ TypeScript入門講座
