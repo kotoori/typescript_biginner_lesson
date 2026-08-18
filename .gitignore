@@ -1,0 +1,23 @@
+Thumbs.db
+.DS_Store
+*.log
+.vscode/*
+.cursor/*
+
+#claude code
+CLAUDE.md
+
+# node_modules
+**/node_modules/
+
+# package-lock.json
+package-lock.json
+
+# yarn.lock
+yarn.lock
+
+# bun.lockb
+bun.lockb
+
+#Claude code roles
+app/public/wp-content/themes/**/*.md
